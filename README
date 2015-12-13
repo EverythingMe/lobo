@@ -1,0 +1,12 @@
+# LOBO
+
+## How to use
+
+```
+$ lobo new-feature <message>
+$ lobo work-on <issue #>
+$ lobo daily
+$ lobo submit <reviewer>
+$ lobo land
+$ lobo freeze
+```
