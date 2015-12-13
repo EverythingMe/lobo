@@ -1,0 +1,10 @@
+jira==0.16
+pyapi-gitlab>=7.5.0
+jenkinsapi>=0.2.26
+hypchat>=0.18
+python-dateutil>=2.2
+google-api-python-client
+pyOpenSSL
+futures
+pyyaml
+Py2ChainMap
